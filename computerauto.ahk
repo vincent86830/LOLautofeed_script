@@ -6,7 +6,7 @@ Loop
     ;右鍵對面主堡
     DllCall("SetCursorPos", "int", 1845, "int", 715)
     MouseClick, right, , , 2, 0  ; 雙擊右鍵
-    Sleep 30000
+    Sleep 40000
 
     ;跳過不給讚
     DllCall("SetCursorPos", "int", 957, "int", 654)
