@@ -14,17 +14,17 @@ Loop
     Sleep 10000
 
     ;next 1
-    DllCall("SetCursorPos", "int", 819, "int", 912)
+    DllCall("SetCursorPos", "int", 905, "int", 915)
     MouseClick left
     Sleep 5000
 
     ;next 2
-    DllCall("SetCursorPos", "int", 819, "int", 912)
+    DllCall("SetCursorPos", "int", 905, "int", 915)
     MouseClick left
     Sleep 5000
 
     ;next 3
-    DllCall("SetCursorPos", "int", 819, "int", 912)
+    DllCall("SetCursorPos", "int", 905, "int", 915)
     MouseClick left
     Sleep 5000
 }
